@@ -11,8 +11,7 @@ Description: Functions, apps, exercises and other R related stuff used in "AI - 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-LinkingTo: Rcpp
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.0
 Imports: 
     tidyr,
     dplyr,
@@ -22,6 +21,17 @@ Imports:
     purrr,
     spaa,
     proxy,
-    class
+    class,
+    DT,
+    forcats,
+    knitr,
+    patchwork,
+    readr,
+    rio,
+    rmarkdown,
+    shiny,
+    shinyWidgets,
+    shinycssloaders,
+    shinyjs
 Depends: 
     R (>= 4.0)
