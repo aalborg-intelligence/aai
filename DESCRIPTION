@@ -1,0 +1,27 @@
+Package: aai
+Type: Package
+Title: Functions, apps, exercises and other R related stuff used in "AI - Aalborg Intelligence"
+Version: 0.2.0
+Author: Ege Rubak, Torben Tvedebrink, Mikkel Meyer Andersen, Lisbeth Fajstrup
+Maintainer: Ege Rubak <rubak@math.aau.dk>
+Description: Functions, apps, exercises and other R related stuff used in "AI - Aalborg Intelligence"
+    The project (2020 - 2026) is supported by the Novo Nordisk Foundation to develop teaching material
+    to be used in the Danish highschools to strengthen the understanding of AI while explaining how 
+    basic maths is used in the some popular AI methods.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+LinkingTo: Rcpp
+RoxygenNote: 7.1.1
+Imports: 
+    tidyr,
+    dplyr,
+    magrittr,
+    ggplot2,
+    tibble,
+    purrr,
+    spaa,
+    proxy,
+    class
+Depends: 
+    R (>= 4.0)
