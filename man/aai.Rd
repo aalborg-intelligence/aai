@@ -7,6 +7,6 @@
 \description{
 Functions, apps, exercises and other R related stuff used in "AI - Aalborg Intelligence"
     The project (2020 - 2026) is supported by the Novo Nordisk Foundation to develop teaching material
-    to be used in the Danish highschools to strengthen the understanding of AI while explaining how
+    to be used in the Danish high schools to strengthen the understanding of AI while explaining how
     basic maths is used in the some popular AI methods.
 }
